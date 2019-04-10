@@ -1,0 +1,19 @@
+{
+  "name": "npm-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "17.5NPM"
+  },
+  "author": "M.Matyjanka",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
+}
